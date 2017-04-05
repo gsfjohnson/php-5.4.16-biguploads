@@ -211,7 +211,7 @@ BuildRequires: bzip2-devel, curl-devel >= 7.9, gmp-devel
 BuildRequires: httpd-devel >= 2.0.46-1, pam-devel
 BuildRequires: libstdc++-devel, openssl-devel
 BuildRequires: sqlite-devel >= 3.6.0
-BuildRequires: zlib-devel, smtpdaemon, libedit-devel
+BuildRequires: zlib-devel, sendmail, libedit-devel
 BuildRequires: pcre-devel >= 6.6
 BuildRequires: bzip2, perl, libtool >= 1.4.3, gcc-c++
 BuildRequires: libtool-ltdl-devel
